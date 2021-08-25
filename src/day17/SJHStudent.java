@@ -7,7 +7,7 @@ public class SJHStudent {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
-		ArrayList<StInfo> arr = new ArrayList<StInfo>();
+		ArrayList<SJHStudentInfo> arr = new ArrayList<SJHStudentInfo>();
 		String name;
 		int age; 
 		int phN;
